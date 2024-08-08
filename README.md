@@ -11,7 +11,7 @@ Bem-vindo ao repositório "Projetos Front"! Este repositório contém uma coleç
 
 ## Projetos
 
-### [Projeto 1: Porjeto CSS](link-para-o-projeto)
+### [Projeto 1: Projeto CSS](link-para-o-projeto)
 - **Descrição:** Este projeto foi dedicado para treinar CSS, sobretudo Flexbox e Grid.
 - **Tecnologias:** HTML, CSS
 - **Destaques:** Contém códigos relevantes para auxiliar na organização do conteúdo

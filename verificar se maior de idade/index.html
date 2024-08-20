@@ -4,12 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Idade</title>
+    <style>
+        body {
+            background-color: #2C3E50;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        div {
+            width: 70%;
+            margin: 0 auto;
+            background-color: #ECF0F1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            border-radius: 50px;
+        }
+    </style>
 </head>
 <body>
+    <div>
     <h1>Vamos ver se você é maior de idade</h1>
     <input type="number" id="input-ano">
     <button type="button" onclick="maiorIdade()">Verificar</button>
     <p id="resposta"></p>
+    <p id="resposta2"></p>
+    </div>
     <script src="./script.js"></script>
 </body>
 </html>
